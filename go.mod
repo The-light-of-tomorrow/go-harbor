@@ -1,4 +1,4 @@
-module github.com/TimeBye/go-harbor
+module github.com/The-light-of-tomorrow/go-harbor
 
 go 1.15
 
